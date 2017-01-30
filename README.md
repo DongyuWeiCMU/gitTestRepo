@@ -1,2 +1,2 @@
 # gitTestRepo
-test
+test for git
